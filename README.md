@@ -1,18 +1,23 @@
-# Machine Learning
+# Machine Learning Journey 🚀
 
-Personal notebooks for learning ML concepts hands-on.
+Documenting everything I learn, day by day. Raw notes, notebooks, and progress.
 
-## Contents
+---
 
-| Notebook | Topic | Dataset |
-|----------|-------|---------|
-| `pandas-titanic/titanic_analysis.ipynb` | Pandas basics — DataFrame, groupby, describe | Titanic CSV |
+## 📅 Day 1 — 24 June 2026
 
-## Tech Stack
-- Python, Pandas, NumPy
-- Jupyter Notebooks in VS Code
+**Topics:** NumPy Basics, Pandas with Titanic Dataset
 
-## Progress
-- [x] Pandas basics with Titanic dataset
-- [ ] NumPy basics
-- [ ] Data visualization (Matplotlib/Seaborn)
+**What I did:**
+- Set up VS Code + Jupyter notebook environment
+- Practiced NumPy — arrays (1D, 2D, 3D), shape, dtype, indexing, slicing, reshape, vstack, hstack
+- Practiced Pandas — read_csv, head, describe, groupby, boolean filtering on Titanic dataset
+- Pushed first notebooks to GitHub
+
+**Files:**
+- `basics/numpy_practice.ipynb`
+- `basics/pandas.ipynb`
+
+---
+
+*More coming tomorrow.*
